@@ -35,4 +35,16 @@ export default [
         dates: "01 Oct, 2021 - 18 Nov, 2021",
         text: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
     },
+    {
+        id: 4,
+        img: {
+            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/TourEiffelLC.JPG/250px-TourEiffelLC.JPG",
+            alt: "Paris"
+        },
+        title: "Paris",
+        country: "France",
+        googleMapsLink: "https://www.google.com/maps/place/Paris/data=!4m2!3m1!1s0x47e66e1f06e2b70f:0x40b82c3688c9460?sa=X&ved=1t:155783&ictx=111",
+        dates: "06 Oct, 2024 - 18 Nov, 2024",
+        text: "Paris[a] is the capital and largest city of France, with an estimated city population of 2,048,472 in an area of 105.4 km2 (40.7 sq mi), and a metropolitan population of 13,171,056 as of January 2025."
+    },
 ]
